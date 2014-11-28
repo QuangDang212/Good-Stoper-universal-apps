@@ -1,1 +1,1 @@
-C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Good Stoper.Windows.csproj;neutral
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Good Stoper.Windows.csproj;neutral

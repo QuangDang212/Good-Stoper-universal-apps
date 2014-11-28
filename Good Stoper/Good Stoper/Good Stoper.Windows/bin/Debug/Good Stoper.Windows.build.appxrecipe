@@ -7,44 +7,120 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>70e06047-012f-4806-b861-077b041c55d2</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\Good Stoper.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\Good Stoper.Windows.exe">
       <PackagePath>Good Stoper.Windows.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\Good Stoper.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\Good Stoper.Windows.xr.xml">
       <PackagePath>Good Stoper.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lukii\documents\visual studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Good Stoper\Good Stoper\Good Stoper.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

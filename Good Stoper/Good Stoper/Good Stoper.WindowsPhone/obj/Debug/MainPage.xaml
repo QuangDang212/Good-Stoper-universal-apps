@@ -28,10 +28,6 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <Grid>
-                        <!--<Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="*"/>
-                        </Grid.ColumnDefinitions>-->
                         <TextBlock TextAlignment="Left" Text="{Binding Id}" FontSize="24"/>
                         <TextBlock Text="{Binding Lap}" FontSize="24" Margin="40,0,0,0" TextAlignment="Right"/>
                     </Grid>
