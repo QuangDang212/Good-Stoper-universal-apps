@@ -12,8 +12,8 @@ Lap button, when we click this button, we can catch the time to list.
 ### Screenshots:
 
 ### Windows Phone:
-
+![Image](Screenshots/windowsphonestoper.jpg)
 
 ### Windows App:
-
+![Image](Screenshots/windowsstoper.jpg)
 
